@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2299f04c-5b32-46a2-ae2b-92cb6a10652d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmployeeWageComputation/com/EmployeeWage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeWageComputation/com/EmployeeWage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmployeeWageComputation/com/EmployeeWage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brideglabz/empwage/EmployeeWage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +35,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/210_RPF/Day3_EmployeeWage"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.com.brideglabz.empwage.EmployeeWage">
     <configuration name="EmployeeWage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EmployeeWageComputation.com.EmployeeWage" />
       <module name="EmpWageDay3" />
@@ -52,8 +53,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.brideglabz.empwage.EmployeeWage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brideglabz.empwage.EmployeeWage" />
+      <module name="EmpWageDay3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brideglabz.empwage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.brideglabz.empwage.EmployeeWage" />
         <item itemvalue="Application.EmployeeWage" />
       </list>
     </recent_temporary>
