@@ -39,7 +39,6 @@ public class EmployeeWage {
         System.out.println("Total wage => "+totalWage);
         System.out.println("Total working hours => "+totalWorkingHours);
     }
-
 }
 /*Calculate Wages till
 a condition of total
