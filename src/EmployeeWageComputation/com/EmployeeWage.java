@@ -1,4 +1,4 @@
-package EmployeeWageComputation.com;
+package com.brideglabz.employeewagecomputation;
 
 public class EmployeeWage {
     public static void main(String[] args) {
